@@ -346,7 +346,7 @@ systemctl restart apache2
   - Identifiant par défaut : `glpi`
   - Mot de passe : `glpi`
 
-![GLPI](/assets/glpi.png)
+<!-- ![GLPI](/assets/glpi.png) -->
 
 - Installation du Plugin FusionInventory
 
