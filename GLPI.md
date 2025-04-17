@@ -121,7 +121,11 @@ apt install apache2 -y
 
 ```sh
 sudo apt install software-properties-common -y
+```
+```sh
 sudo add-apt-repository ppa:ondrej/php -y
+```
+```sh
 sudo apt update
 ```
 
