@@ -280,7 +280,7 @@ chown -R www-data:www-data /var/www/html/glpi
 ls -l /var/www/html
 ```
 
-- Installation et activation de SELinux
+<!-- - Installation et activation de SELinux
 
 ```sh
 sudo apt install selinux-basics selinux-policy-default auditd -y
@@ -294,7 +294,7 @@ nano /etc/selinux/config
 
 ```sh
 SELINUX=Enforcing
-```
+``` -->
 
 - Installation de modules PHP supplémentaires
 
